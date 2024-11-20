@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: appsettings.json
+  checksum: 9a889eb8212138e079a79cfc495fea1d459e8349b36e0b33df64fcba7ecc8af1
+version: "1.0"
