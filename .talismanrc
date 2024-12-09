@@ -9,4 +9,8 @@ fileignoreconfig:
   checksum: 8514f49163c98e12874b8a2efe8add4996cd735d1460ef8f72372c2df91bc83c
 - filename: gh-token-2
   checksum: 4134337eb384766419f8d2b38cc7d053ed019db11312fb1bad8875f6b97ac34c
+- filename: .github/workflows/todo-webapp-pr.yml
+  checksum: 10a2c8107bc0190598e9964517590a66fd63d2d78fd223d601f2545ac0d17cda
+- filename: .github/workflows/todo-api-pr.yml
+  checksum: b28013dd0db4b18b406596883de4325cb9d74f04ca961444b7f60c96f26a3ff9
 version: "1.0"
